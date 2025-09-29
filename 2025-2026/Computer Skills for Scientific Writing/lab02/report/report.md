@@ -1,7 +1,7 @@
 ---
 # Front matter
 lang: ru-RU
-title: "Лабораторная работа №1"
+title: "Лабораторная работа №2"
 subtitle: "Дисциплина: Computer Skills for Scientific Writing"
 author: "Дарижапов Тимур Андреевич"
 
@@ -48,29 +48,27 @@ header-includes:
 
 # Цель работы
 
-Установить TeXlive.
+Понять, как использовать TeXlive. Написать свой первый файл.
 
 
 # Выполнение лабораторной работы
 
-1) Установка из дистрибутивов происходит с помощью команды: sudo apt install texlive-full. Установка долгая, но я заранее всё установил.
+1) Создадим наш первый файл в формате .tex.
 
-![texlive-full](image/screen.jpg){ width=70% }
+![Создание файла](image/screen.jpg){ width=70% }
 
-2) Также установку можно сделать вручную.
+![Содержание файла](image/screen2.jpg){ width=70% }
 
-![Manual installation](image/screen2.jpg){ width=70% }
+2) Сделаем файл .pdf из файла .tex.
 
-Распаковка архива.
+![PDF-файл](image/screen3.jpg){ width=70% }
 
-![Распаковка](image/screen3.jpg){ width=70% }
+Сделанный файл.
 
-Сама установка тоже занимает много времени, поэтому я прикладываю часть этой установки.
-
-![Установка](image/screen4.jpg){ width=70% }
+![PDF-файл](image/screen4.jpg){ width=70% }
 
 
 # Выводы
 
-- Я установил TeXlive на дистрибутив DragonOS (Ubuntu).
+- Я использовал TeXlive. Сделал свой первый .pdf файл.
 
